@@ -1,0 +1,12 @@
+ortools
+pyvis
+networkx>=2.2
+matplotlib==2.2.2
+numpy
+ciso8601
+cvxopt
+lxml
+graphviz
+pandas
+scipy
+scikit-learn
